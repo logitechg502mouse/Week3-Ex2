@@ -18,6 +18,8 @@ public class GitOperations2 {
         System.out.println("Version1");
         int c = 1;
         int b = 22;
+        
+        System.out.println(c + b);
     }
     
 }
