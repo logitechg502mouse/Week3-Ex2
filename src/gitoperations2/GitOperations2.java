@@ -20,6 +20,8 @@ public class GitOperations2 {
         int b = 22;
         
         System.out.println(c + b);
+       
+        System.out.print(c * b);
     }
     
 }
