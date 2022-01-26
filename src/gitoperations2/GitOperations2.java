@@ -23,6 +23,9 @@ public class GitOperations2 {
        
         System.out.print(c * b);
         //amogus
+        
+        //version 1.b
+        //the green lines mean that it is not in the main branch
     }
     
 }
