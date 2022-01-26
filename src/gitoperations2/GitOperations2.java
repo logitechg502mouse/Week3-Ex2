@@ -17,6 +17,7 @@ public class GitOperations2 {
         // TODO code application logic here
         System.out.println("Version1");
         int c = 1;
+        int b = 22;
     }
     
 }
