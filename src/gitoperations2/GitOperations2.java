@@ -22,6 +22,7 @@ public class GitOperations2 {
         System.out.println(c + b);
        
         System.out.print(c * b);
+        //amogus
     }
     
 }
